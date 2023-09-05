@@ -23,7 +23,7 @@ Upload the dataset values and check for any null or duplicated values using .isn
 
 Import LabelEncoder and encode the corresponding dataset values.
 
-@## Step 4 :
+### Step 4 :
 
 Import LogisticRegression from sklearn and apply the model on the dataset using train and test values of x and y.
 
